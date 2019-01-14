@@ -10,8 +10,8 @@
 
         "ADD": "Agregar",
         "CANCEL": "Cancelar",
-        "DELETE": "Delete",
-        "EDIT": "Edit",
+        "DELETE": "Borrar",
+        "EDIT": "Editar",
         "TEST": "Test",
 
         "ABOUT": "Acerca de",
@@ -20,7 +20,7 @@
         "WORKSHEETS": "Ejercicios",
         "NEWS": "Novedades",
         "HELP": "Ayuda",
-        "LOGIN": "Ingresar",
+        "LOGIN": "Acceder",
         "LOGOUT": "Salir",
 
         "BETA": "Beta",
@@ -39,7 +39,7 @@
             "BODY": "El aprendizaje automático está por todos lados. Usamos sistemas de aprendizaje automático todos los días - como ser filtros de detección de correo basura, sistemas de recomendación, servicios de traducciones entre idiomas, chatbots y assitentes digitales, motores de búsqueda, y sistemas de detección de fraude.<br/><br/>Pronto será normal que los sistemas de aprendizaje automático manejen nuestros automóbiles, y ayuden a los médicos a diagnosticas y tratar nuestras enfermedades. <br/><br/>Es importante que los niños conozcan cómos es que funciona el mundo. La mejor manera de comprender las capacidades e implicaciones es poder construir utilizando esta tecnología ellos mismos. <br/><br/>Para aprender más, leer: <a target='_blank' class='btn btn-primary' href='http://dalelane.co.uk/blog/?p=3513'>'Introducción a Aprendizaje Automático para niños'</a>"
         },
         "TECH": {
-            "TITLE": "Tecnolog´ʼʼ",
+            "TITLE": "Tecnología",
             "BODY": "La herramienta está basada enteramente en la web y no requiere ni instalación ni configuración compleja para usarse. <br/><br/>Fue diseñada para su uso en el aula tanto en escuelas como en clubes de programación para niños dirigidos por voluntarios, y proporciona una página de administración para que los maestros o líderes de grupos puedan administrar y gestionar el acceso de sus estudiantes.<br/><br/>El desarrollo está a cargo de <a target='_blank' href='http://dalelane.co.uk/'>Dale Lane</a> utilizando APIs de <a target='_blank' href='https://www.ibm.com/watson/developercloud/'>IBM Watson Developer Cloud</a>.",
             "LOGIN": "Para comenzar: "
         }
@@ -51,7 +51,7 @@
             "DESCRIPTION": "Novedades y actualizaciones de @MLforKids"
         },
         "MENTIONS": {
-            "TITLE": "Menciones & Media",
+            "TITLE": "Menciones & Medios",
             "DESCRIPTION": "cargando Menciones &amp; Media desde wakelet.com"
         }
     },
@@ -71,7 +71,7 @@
         "ADMIN_LABEL": "Ir a tu <strong>Página de Administración</strong>",
         "PROJECT_LABEL": "Ir a tus <strong>Proyectos</strong>",
         "STEP_1_TEXT": "Reúne ejemplos de cosas que quieres poder reconocer",
-        "STEP_2_TEXT": "Usa ejemplos para entrenar una computadora para poder reconocerlos",
+        "STEP_2_TEXT": "Usa ejemplos para entrenar a una computadora para que aprenda a reconocerlos",
         "STEP_3_TEXT": "Haz un juego en Scratch que use la habilidad de la computadora para reconocerlos"
     },
     "LOGIN": {
@@ -84,27 +84,26 @@
         "SIGN_UP": "Regístrate",
         "WHY_REGISTER": "¿Por qué registrarse?",
         "WHY_REGISTER_INTRO_1": "<strong> No es necesario registrarse ni crear una cuenta </strong> para usar Aprendizaje Automático para Niños, pero si lo haces, se desbloquean algunas características de la herramienta.",
-        "WHY_REGISTER_INTRO_2": "La siguiente grilla explica la diferencia entre lo que puedes hacer si haces clic en \"Pruébalo ahora\" sin registrarte, y qué puedes hacer si creas una cuenta para iniciar sesión.",
+        "WHY_REGISTER_INTRO_2": "La siguiente matriz explica la diferencia entre lo que puedes hacer si haces clic en \"Pruébalo ahora\" sin registrarte, y qué puedes hacer si creas una cuenta para iniciar sesión.",
         "ALREADY_REGISTERED": "¿Ya registrado?",
         "LOGIN": "Inicia sesión",
         "FORGOT_DETAILS": "¿Olvidaste tus datos?",
-        "TRY_TITLE": "Prueba sin registrarte",
-        "TRY_NOW": "Pruébalo ahora",
+        "TRY_TITLE": "Probar sin registrarse",
+        "TRY_NOW": "Prueba ahora",
         "WHO_YOU": "¿Quién eres tú?",
-        "TEACHER": "Un maestro o líder de un club de codificación",
+        "TEACHER": "Un maestro o coordinador de un club de programación",
         "STUDENT": "Un estudiante",
-        "FORGOT_TEXT": "¿Haz olvidado tu nombre de usuario o contraseña? Está bien, todos olvidamos cosas a veces.",
-        "ARE_YOU_A_STUDENT": "Are you a student?",
-        "ARE_YOU_A_STUDENT_INTRO_1": "If your class is already using this tool, ask your teacher or coding group leader to create you an account.",
-        "ARE_YOU_A_STUDENT_INTRO_2": "If your class isn't already using the tool, ask your teacher or coding group leader to get in touch.",
-        "RESET_STUDENT_PASSWORD_1": "If you're a student, we don't have your email address to be able to send you a password-reset email.",
-        "RESET_STUDENT_PASSWORD_2": "That's no problem, though!",
-        "RESET_STUDENT_PASSWORD_3": "Just ask your teacher or group leader who first signed you up. They will be able to reset your password from their Admin page."
+        "FORGOT_TEXT": "¿Has olvidado tu nombre de usuario o contraseña? Está bien, todos olvidamos cosas a veces.",
+        "ARE_YOU_A_STUDENT": "¿Eres un estudiante?",
+        "ARE_YOU_A_STUDENT_INTRO_1": "Si tu clase ya está usando esta herramienta, pide al profesor o coordinador que te cree una cuenta.",
+        "ARE_YOU_A_STUDENT_INTRO_2": "Si tu clase todavía no está usando esta herramienta, pide al profesor o coordinador que contacte.",     "RESET_STUDENT_PASSWORD_1": "If you're a student, we don't have your email address to be able to send you a password-reset email.",
+        "RESET_STUDENT_PASSWORD_2": "¡No y problema!",
+        "RESET_STUDENT_PASSWORD_3": "Pide a tu profesor o coordinador que resetee tu contraseña desde la página de administración"
     },
     "SIGNUP": {
         "TEACHER": {
-            "TITLE": "¿Eres profesor o líder de un club de codificación?",
-            "INFO1": "Si deseas acceso para tus estudiantes, crea una cuenta de clase a continuación.",
+            "TITLE": "¿Eres profesor o coordinador de un club de programación?",
+            "INFO1": "Si deseas dar acceso para tus estudiantes, crea una cuenta de clase.",
             "INFO2": "Hay dos tipos de cuentas de clase, dependiendo de quién lo configure."
         },
         "UNMANAGED": {
@@ -176,8 +175,8 @@
         },
         "CREATE": "Crear",
         "ERRORS": {
-            "REQUIRED": "This is required!",
-            "TOOLONG": "That's too long!"
+            "REQUIRED": "Campo obligatorio,
+            "TOOLONG": "¡Demasiado largo!"
         }
     },
     "PROJECT": {
@@ -211,107 +210,107 @@
         }
     },
     "TRAINING": {
-        "TITLE": "Training",
-        "ADDLABEL": "Add new label",
-        "CREATEFIRSTLABEL": "Click on the 'plus' button on the right to add your first bucket.",
-        "CROWDSOURCEDEMPTY": "Refresh this page after your teacher has created the training buckets.",
-        "ADDEXAMPLE": "Add example",
+        "TITLE": "Entrenamiengo",
+        "ADDLABEL": "Añadir nueva etiqueta",
+        "CREATEFIRSTLABEL": "Plusar el botón 'plus' a la derecha para añadir nueva etiqueta.",
+        "CROWDSOURCEDEMPTY": " Refrescar esta página después de que el profesor haya creado los contenedores de entrenamiento.",
+        "ADDEXAMPLE": "Añadir ejemplo",
         "ADDURL": "www",
         "ADDWEBCAM": "webcam",
-        "ADDDRAWING": "draw",
-        "DRAGIMAGES": "Drag pictures from other browser windows and drop them here",
+        "ADDDRAWING": "dibujo",
+        "DRAGIMAGES": "Arrastrar imágenes desde otras ventanas de browser y soltarlas aquí",
         "NEWLABEL": {
-            "INTRO": "Enter new label to recognise",
-            "ERROR": "Only use letters and numbers in labels"
+            "INTRO": "Introduce la nueva etiqueta a reconocer",
+            "ERROR": "En las etiquetas, usar sólo letras y números"
         },
         "NEWEXAMPLE": {
-            "INTRO": "Enter an example of ",
-            "INTROURL": "Enter the URL of a picture that is an example of",
-            "INTRODRAWING": "Draw a new example of",
-            "INTROWEBCAM": "Add new example of",
-            "ERROR": "You're not allowed to use tabs or newlines.",
-            "REQUIRED": "You have to include values for all fields in an example",
-            "PATTERNNUMBER": "This doesn't look like a number",
-            "PATTERNURL": "This needs to be the web address of a picture",
-            "WEBCAMFAIL": "Sorry! We weren't able to get a webcam to work for you.",
-            "WEBCAMERROR": "The message we got from your web browser was:"
+            "INTRO": "Introduce un ejemplo  ",
+            "INTROURL": "Introduce la URL de una imagen que sea ejemplo de",
+            "INTRODRAWING": "Dibuja un nuevo ejemplo de",
+            "INTROWEBCAM": "Añade un nuevo ejemplo de",
+            "ERROR": "No puedes usar tablas ni agregar líneas.",
+            "REQUIRED": "Debes rellenar todos los campos",
+            "PATTERNNUMBER": "Esto no parece un número",
+            "PATTERNURL": "Esto debe ser la URL de una imagen",
+            "WEBCAMFAIL": "¡Lo sentimos! La webcam no está disponible.",
+            "WEBCAMERROR": "El mensaje obtenido de tu broser es:"
         }
     },
     "MODELS": {
-        "TITLE": "Machine learning models",
-        "TRAIN": "Train new machine learning model",
-        "CANCEL": "Cancel training",
-        "DELETE": "Delete this model",
-        "TEST_CANVAS": "Draw something to test your model with",
-        "TEST_WEBCAM": "Take a photo to test your model with",
+        "TITLE": "Modelos de Aprendizaje Automático",
+        "TRAIN": "Entrena un nuevo modelos de aprendizaje automático",
+        "CANCEL": "Cancelar el entrenamiento",
+        "DELETE": "Borrar este modelo",
+        "TEST_CANVAS": "Haz un dibujo para probar con él tu modelo",
+        "TEST_WEBCAM": "Haz una foto para probar con ella tu modelo",
         "WHATHAVEYOUDONE": {
-            "TITLE": "What have you done?",
-            "PLEASEWAIT": "This normally takes a few minutes, but can take a little longer if the training computer is very busy.",
-            "FAIL": "Unfortunately, something went wrong.",
+            "TITLE": "¿Qué has hecho?",
+            "PLEASEWAIT": "Normalmente esto tarde un rato, pero puede ser algo más si tu ordenador está muy ocupado.",
+            "FAIL": "Desafortunadamente, algo ha salido mal.",
 
             "TRAINING" : {
                 "CROWDSOURCED" : {
-                    "TEXT" : "Your class is training a machine learning model using the examples of text that you all collected.",
-                    "IMAGES" : "Your class is training a machine learning model using the examples of images that you all collected.",
-                    "NUMBERS" : "Your class is training a machine learning model using the examples of numbers that you all collected."
+                    "TEXT" : "Tu clase está entrenando un modelo de aprendizaje automático usando los ejemplos de texto que has añadido.",
+                    "IMAGES" : "Tu clase está entrenando un modelo de aprendizaje automático usando los ejemplos de imágenes que has añadido.",
+                    "NUMBERS" : "Tu clase está entrenando un modelo de aprendizaje automático usando los ejemplos de números que has añadido."
                 },
                 "INDIVIDUAL" : {
-                    "TEXT" : "You've started training a machine learning model using the examples of text that you collected.",
-                    "IMAGES" : "You've started training a machine learning model using the examples of images that you collected.",
-                    "NUMBERS" : "You've started training a machine learning model using the examples of numbers that you collected."
+                    "TEXT" : " Estás entrenando un modelo de aprendizaje automático con los ejemplos de texto que has añadido.",
+                    "IMAGES" : "Estás entrenando un modelo de aprendizaje automático con los ejemplos de imágenes que has añadido.",
+                    "NUMBERS" : "Estás entrenando un modelo de aprendizaje automático con los ejemplos de números que has añadido."
                 },
-                "SINCE": "It's been training since"
+                "SINCE": "Está entrenando desde"
             },
             "READY" : {
                 "CROWDSOURCED" : {
-                    "TEXT" : "Your class has trained a machine learning model to recognise when text is ",
-                    "IMAGES" : "Your class has trained a machine learning model to recognise when images are ",
-                    "NUMBERS" : "Your class has trained a machine learning model to recognise when numbers are "
+                    "TEXT" : "Tu clase ha entrenado un modelo para reconocer cuándo un texto es ",
+                    "IMAGES" : "Tu clase ha entrenado un modelo para reconocer cuándo una imagen es ",
+                    "NUMBERS" : "Tu clase ha entrenado un modelo para reconocer cuándo un número es  "
                 },
                 "INDIVIDUAL" : {
-                    "TEXT" : "You have trained a machine learning model to recognise when text is ",
-                    "IMAGES" : "You have trained a machine learning model to recognise when images are ",
-                    "NUMBERS" : "You have trained a machine learning model to recognise when numbers are "
+                    "TEXT" : "Has entrenado un modelo para reconocer cuándo un texto es",
+                    "IMAGES" : "Has entrenado un modelo para reconocer cuándo una imagen es" ",
+                    "NUMBERS" : "Has entrenado un modelo para reconocer cuándo un número es "
                 },
                 "CREATED" : {
-                    "TEACHER" : "Your teacher created the model on ",
-                    "YOU" : "You created the model on "
+                    "TEACHER" : "Tu profesor ha creado un modelo sobre ",
+                    "YOU" : "Has creado un modelo sobre "
                 },
                 "TRAINING" : {
-                    "CLASS" : "Your class has collected: ",
-                    "YOU" : "You have collected: "
+                    "CLASS" : "Tu clase ha añadido: ",
+                    "YOU" : "Tú has añadido: "
                 }
             },
             "ERROR": {
                 "CROWDSOURCED" : {
                     "CLASS" : {
-                        "TEXT" : "Your teacher tried training a machine learning model using the examples of text that your class collected.",
-                        "IMAGES" : "Your teacher tried training a machine learning model using the examples of images that your class collected.",
-                        "NUMBERS" : "Your teacher tried training a machine learning model using the examples of numbers that your class collected."
+                        "TEXT" : "Tu profesor intentó entrenar un modelo de aprendizaje automático con los ejemplos de texto que tu clase ha añadido.",
+                        "IMAGES" : "Tu profesor intentó entrenar un modelo de aprendizaje automático con los ejemplos de imágenes que tu clase ha añadido.",
+                        "NUMBERS" : "Tu profesor intentó entrenar un modelo de aprendizaje automático con los ejemplos de números que tu clase ha añadido."
                     },
                     "YOU" : {
-                        "TEXT" : "You tried training a machine learning model using the examples of text that your class collected.",
-                        "IMAGES" : "You tried training a machine learning model using the examples of images that your class collected.",
-                        "NUMBERS" : "You tried training a machine learning model using the examples of numbers that your class collected."
+                        "TEXT" : "Habéis intentado entrenar un modelo de aprendizaje automático con los ejemplos de texto que tu clase ha añadido.",
+                        "IMAGES" : "Habéis intentado entrenar un modelo de aprendizaje automático con los ejemplos de imágenes que tu clase ha añadido",
+                        "NUMBERS" : "Habéis intentado entrenar un modelo de aprendizaje automático con los ejemplos de números que tu clase ha añadido."
                     }
                 },
                 "INDIVIDUAL" : {
-                    "TEXT" : "You tried training a machine learning model using the examples of text that you collected.",
-                    "IMAGES" : "You tried training a machine learning model using the examples of images that you collected.",
-                    "NUMBERS" : "You tried training a machine learning model using the examples of numbers that you collected."
+                    "TEXT" : "Has intentado entrenar un modelo de aprendizaje automático con los ejemplos de texto que tu clase ha añadido.",
+                    "IMAGES" : "Has intentado entrenar un modelo de aprendizaje automático con los ejemplos de imágnes que tu clase ha añadido.",
+                    "NUMBERS" : "Has intentado entrenar un modelo de aprendizaje automático con los ejemplos de números que tu clase ha añadido.."
                 }
             },
             "IDLE" : {
                 "NOLABELS" : {
                     "CROWDSOURCED" : {
-                        "TEXT" : "Your class said you want to collect examples of text.",
-                        "IMAGES" : "Your class said you want to collect examples of images.",
-                        "NUMBERS" : "Your class said you want to collect examples of numbers."
+                        "TEXT" : "Tu clase ha elegido añadir ejemplos de textos.",
+                        "IMAGES" : "Tu clase ha elegido añadir ejemplos de imágenes.",
+                        "NUMBERS" : "Tu clase ha elegido añadir ejemplos de números."
                     },
                     "INDIVIDUAL" : {
-                        "TEXT" : "You've said you want to collect examples of text.",
-                        "IMAGES" : "You've said you want to collect examples of images.",
-                        "NUMBERS" : "You've said you want to collect examples of numbers."
+                        "TEXT" : "Has elegido añadir ejemplos de textos.",
+                        "IMAGES" : "Has elegido añadir ejemplos de imágenes.",
+                        "NUMBERS" : "Has elegido añadir ejemplos de números."
                     }
                 },
                 "NODATA" : {
@@ -327,147 +326,146 @@
                     }
                 },
                 "NOEXAMPLES" : {
-                    "CLASS" : "So far, your class haven't collected any examples yet.",
-                    "YOU" : "So far, you haven't collected any examples yet."
+                    "CLASS" : "Tu clase todavía no ha agregado ningún ejemplo.",
+                    "YOU" : "Todavía no has agregado ningún ejemplo."
                 },
                 "DATA" : {
                     "CROWDSOURCED" : {
-                        "TEXT" : "Your class has collected examples of text for a computer to use to recognise when text is ",
-                        "IMAGES" : "Your class has collected examples of images for a computer to use to recognise when images are ",
-                        "NUMBERS" : "Your class has collected examples of numbers for a computer to use to recognise when numbers are "
+                        "TEXT" : " Tu clase ha recogido ejemplos para que la computadora reconozca cuando un texto es",
+                        "IMAGES" : "Tu clase ha recogido ejemplos para que la computadora reconozca cuando una imagen es ",
+                        "NUMBERS" : "Tu clase ha recogido ejemplos para que la computadora reconozca cuando un número es "
                     },
                     "INDIVIDUAL" : {
-                        "TEXT" : "You have collected examples of text for a computer to use to recognise when text is ",
-                        "IMAGES" : "You have collected examples of images for a computer to use to recognise when images are ",
-                        "NUMBERS" : "You have collected examples of numbers for a computer to use to recognise when numbers are "
+                        "TEXT" : "Has recogido ejemplos para que la computadora reconozca cuando un texto es",
+                        "IMAGES" : "Has recogido ejemplos para que la computadora reconozca cuando una imagen es ",
+                        "NUMBERS" : "Has recogido ejemplos para que la computadora reconozca cuando un número es "
                     },
                     "COLLECTED" : {
-                        "CLASS" : "They've collected: ",
-                        "YOU" : "You've collected: "
+                        "CLASS" : "Han añadido: ",
+                        "YOU" : "Has añadido: "
                     }
                 }
             }
         },
         "WHATSNEXT": {
-            "TITLE": "What's next?",
-            "PLEASEWAIT": "You could wait for the machine learning model to finish being trained.",
-            "OFFERQUIZ": "Or, you could try the machine learning quiz below, to check what you've learned.",
-            "FAIL": "The error message from the training computer is shown below. If that makes sense to you, try and fix the problem. Otherwise, it might be worth trying again in case it was just a random error.",
+            "TITLE": "¿Qué hacemos a continuación?",
+            "PLEASEWAIT": "Puedes esperar que termine de entrenar el modelo.",
+            "OFFERQUIZ": "O puedes hacer un pequeño test, para comprobar lo que has aprendido hasta ahora.",
+            "FAIL": "Debajo se muestra el mensaje de error. Si tiene sentido para tí, intenta arreglar el problema. Si no, puede tratarse de un error aleatorio y entonces, lo mejor es empezar de nuevo.",
 
             "IDLE": {
-                "NOLABELS" : "The next step is to go to the <a href='{{ urls.train }}'>Train</a> page. Add some labels for each of the things that you want to teach the computer to be able to recognise.",
+                "NOLABELS" : "El siguiente paso es is a la página <a href='{{ urls.train }}'>Train</a> . Añade etiquetas para cada una de las cosas que quieras que la computadora pueda reconocer.",
                 "ONELABEL" : {
-                    "EXPLANATION": "You've only said one thing that you want the computer to be able to recognise: {{ label }}",
-                    "ISTHATALL": "Is that the only thing you want the computer to be able to recognise?",
-                    "NO": "<strong>No?</strong><br/>Go back to the <a href='{{ urls.train }}'>Train</a> page.<br/>Add more labels for each of the things that you want to teach the computer to be able to recognise.<br/><br/>",
-                    "YES": "<strong>Yes?</strong><br/>You need to do a little more work first.<br/>For the computer to be able to learn how to recognise \"{{ label }}\", you need to give it some examples of things that aren't {{ label }}.<br/>Go back to the <a href='{{ urls.train }}'>Train</a> page and create a new label for examples of things that aren't {{ label }}. You could call it \"not-{{ label }}\"."
+                    "EXPLANATION": " Sólo has dicho una cosa: {{ label }}",
+                    "ISTHATALL": "¿Es la única cosa que quieres que la computadora pueda reconocer?",
+                    "NO": "<strong>No?</strong><br/>Vuelve a la página <a href='{{ urls.train }}'>Entrenamiento</a> .<br/>Añade etiquetas para cada una de las cosas que quieras que la computadora aprenda a reconocer.<br/><br/>",
+                    "YES": "<strong>¿Si?</strong><br/>Necesitas trabajar uno poco más antes.<br/>Para que la computadora aprenda a reconocer \"{{ label }}\", necesitas facilitarle ejemplos de cosas que no son {{ label }}.<br/>Go back to the <a href='{{ urls.train }}'>Train</a> page and create a new label for examples of things that aren't {{ label }}. You could call it \"not-{{ label }}\"."
                 },
                 "LABELS" : {
-                    "NO_DATA" : "The next step is to go to the <a href='{{ urls.train }}'>Train</a> page. Add examples for each of the labels.",
+                    "NO_DATA" : "El siguiente paso es ir a la página <a href='{{ urls.train }}'>Train</a>. Añade ejemplos para cada etiqueta.",
                     "MORE_DATA" : {
-                        "KEEP_GOING": "Keep going!",
+                        "KEEP_GOING": "¡Seguimos!",
                         "MORE_EXAMPLES" : {
-                            "YOU": "Go back to the <a href='{{ urls.train }}'>Train</a> page and collect more examples for each of the labels.",
-                            "CLASS": "Ask your class to go back to the <a href='{{ urls.train }}'>Train</a> page and collect more examples for each of the labels."
+                            "YOU": "Vuelve a la página <a href='{{ urls.train }}'>Entrenamiento</a> y añade más ejemplos para cada etiqueta.",
+                            "CLASS": "Pide a tu clase que vuelva a la página <a href='{{ urls.train }}'>Entrenamiento</a> y añada más ejemplos para cada etiqueta."
                         },
-                        "MORE_IS_BETTER" : "The more you can get, the better it should learn, but you need at least {{ minimumExamples }} examples of each as an absolute minimum."
+                        "MORE_IS_BETTER" : "Cuantos más ejemplos, mejor es el aprendizaje, pero al menos necesitas {{ minimumExamples }} ejemplos  de cada."
                     },
                     "ENOUGH_DATA" : {
-                        "READY_TO_START" : "Ready to start the computer's training?",
+                        "READY_TO_START" : "¿Listos para empezar el entrenamiento?",
                         "START_TRAINING" : {
-                            "CROWDSOURCED" : "Click the button below to start training a machine learning model using the examples your class have collected so far",
-                            "INDIVIDUAL" : "Click the button below to start training a machine learning model using the examples you have collected so far"
+                            "CROWDSOURCED" : "Haz click en el botón de abajo para empezar a entrenar el modelo de aprendizaje automático usando los ejemplos que ha añadido la clase",
+                            "INDIVIDUAL" : "Haz click en el botón de abajo para empezar a entrenar el modelo de aprendizaje automático usando los ejemplos que has añadido."
                         },
                         "MORE_EXAMPLES" : {
-                            "CROWDSOURCED" : "(Or ask your class to go back to the <a href='{{ urls.train }}'>Train</a> page if you want them to collect more examples first.)",
-                            "INDIVIDUAL" : "(Or go back to the <a href='{{ urls.train }}'>Train</a> page if you want to collect some more examples first.)"
+                            "CROWDSOURCED" : "(O pide a tu case que vuelva a la página <a href='{{ urls.train }}'>Entrenamiento</a> Haz click en el botón de abajo para empezar a entrenar el modelo de aprendizaje automático usando los ejemplos que ha añadido la clase.)",
+                            "INDIVIDUAL" : "(O vuelve a la página <a href='{{ urls.train }}'>Entrenamiento</a> Haz click en el botón de abajo para empezar a entrenar el modelo de aprendizaje automático usando los ejemplos que has añadido la clase.)"
                         },
-                        "WAITING_FOR_TEACHER" : "Waiting for your teacher to start the computer's training."
+                        "WAITING_FOR_TEACHER" : "Esperando a que el profesor comience el entrenamiento de la computadora."
                     }
                 }
             },
             "READY" : {
                 "TEST" : {
-                    "TEXT" : "Try testing the machine learning model below. Enter an example of text below, that you didn't include in the examples you used to train it. It will tell you what it recognises it as, and how confident it is in that.",
-                    "IMAGES" : "Try testing the machine learning model below. Enter an example image below, that you didn't include in the examples you used to train it. It will tell you what it recognises it as, and how confident it is in that.",
-                    "NUMBERS" : "Try testing the machine learning model below. Enter an example of numbers below, that you didn't include in the examples you used to train it. It will tell you what it recognises it as, and how confident it is in that."
+                    "TEXT" : "Prueba tu modelo. Introduce un ejemplo de texto no incluido en los ejemplos de entrenamiento. Te dirá lo que reconoce y la fiabilidad del modelo.",
+                    "IMAGES" : "Prueba tu modelo. Introduce un ejemplo de imgaen incluido en los ejemplos de entrenamiento. Te dirá lo que reconoce y la fiabilidad del modelo.",
+                    "NUMBERS" : "Prueba tu modelo. Introduce un ejemplo de texto no incluido en los ejemplos de entrenamiento. Te dirá lo que reconoce y la fiabilidad del modelo."
                 },
-                "SCRATCH" : "If the computer seems to have learned to recognise things correctly, then you can go to Scratch and use what the computer has learned to make a game!",
+                "SCRATCH" : "Si parece que la computadore ha aprendido a correctamente,  puedes ir a Scratch y usar lo que ha aprendido para crear un juego",
                 "ADDITIONAL_TRAINING" : {
                     "MORE_EXAMPLES" : {
-                        "CROWDSOURCED" : "If the computer is getting too many things wrong, your class might want to go back to the <a href='{{ urls.train }}'>Train</a> page and collect some more examples.",
-                        "INDIVIDUAL" : "If the computer is getting too many things wrong, you might want to go back to the <a href='{{ urls.train }}'>Train</a> page and collect some more examples"
-                    },
+                        "CROWDSOURCED" : "Si la computadora falla mucho, la clase puede volver a la página <a href='{{ urls.train }}'>Entenamiengo</a> y añadir más ejemplos.",
+                        "INDIVIDUAL" : "Si la computadora falla mucho, puedes volver a la página  <a href='{{ urls.train }}'>Entrenamiento</a> y añadir más ejemplos".
                     "RETRAIN" : {
-                        "YOU" : "Once you've done that, click on the button below to train a new machine learning model and see what difference the extra examples will make!",
-                        "CLASS" : "Once you've done that, your teacher will need to train a new machine learning model."
+                        "YOU" : "Si ya has terminado, haz click en el botón de abajo para entrenar un nuevo modelo y ver cómo mejora al añadir más ejemplos",
+                        "CLASS" : "Si ya has terminado, tu profesor tendrá que entrenar un nuevo modelo."
                     }
                 }
             }
         },
         "TRAINING": {
-            "TITLE": "Info from training computer:",
-            "STARTED": "Model started training at:",
-            "STATUS": "Current model status:",
-            "DETAIL": "Detail:",
-            "DELETION": "Model will automatically be deleted after:",
-            "LASTCHECK": "Model last checked:",
-            "PROMPTREFRESH": "If this is more than a minute, you should refresh the page to get an up-to-date status"
+            "TITLE": "Información del entrenamiento:",
+            "STARTED": "Modelo iniciado el:",
+            "STATUS": "Estatus actual del modelo:",
+            "DETAIL": "Detalles:",
+            "DELETION": "El modelo se eliminará automáticamente al cabo de:",
+            "LASTCHECK": "Última comprobación del modelo:",
+            "PROMPTREFRESH": "Si dura más de un minuto, deber refrescar la pantalla para obtener el estatus actual"
         },
         "TESTING": {
             "INTRO": {
-                "TEXT": "Try putting in some text to see how it is recognised based on your training.",
-                "IMAGES": "Try putting in an image to see how it is recognised based on your training.",
-                "NUMBERS": "Try putting in some numbers to see how it is recognised based on your training."
+                "TEXT": "Prueba a agregar texto para ver cómo la computadora lo reconoce, basándose en el entrenamiento.",
+                "IMAGES": "Prueba a agregar una imagen para ver cómo la computadora lo reconoce, basándose en el entrenamiento",
+                "NUMBERS": "Prueba a agregar un numero para ver cómo la computadora lo reconoce, basándose en el entrenamiento."
             },
-            "WEBCAM": "Test with <strong>webcam</strong>",
-            "DRAWING": "Test by <strong>drawing</strong>",
-            "WWW": "Test with <strong>www</strong>",
-            "RECOGNISED": "Recognised as  <strong>{{ testoutput }}</strong>"
+            "WEBCAM": "Pruebado con<strong>webcam</strong>",
+            "DRAWING": "Probado con<strong>dibujo</strong>",
+            "WWW": "Probado con<strong>www</strong>",
+            "RECOGNISED": "Identificado como  <strong>{{ testoutput }}</strong>"
         },
         "QUIZ": {
-            "TITLE": "Quiz time!",
-            "INTROQUESTION": "While you are waiting for the model to finish training, try answering this question.",
-            "PREVIOUSLY_ATTEMPTED": "You've seen this one before - let's see if you remember what the right answer is this time!",
-            "CORRECT_ANSWER": "That's right!",
-            "INCORRECT_ANSWER": "No, sorry. The correct answer is shown above.",
-            "NEXT_QUESTION": "Next question"
+            "TITLE": "¡La hora del concurso!",
+            "INTROQUESTION": "Mientras esperas que se entrene el modelo, prueba a responder estas preguntas.",
+            "PREVIOUSLY_ATTEMPTED": "Ya has visto esto antes, a ver si te acuerdas",
+            "CORRECT_ANSWER": "Correcto!",
+            "INCORRECT_ANSWER": "Lo sentimos, la respuesta correcta, arriba.",
+            "NEXT_QUESTION": "Siguiente pregunta"
         }
     },
     "MAKES": {
-        "TITLE": "Make something with your machine learning model",
-        "SCRATCH2": "Make a project in the old version of Scratch",
-        "SCRATCH3": "Use the new version of Scratch",
-        "PYTHON": "Write Python code to use your machine learning model",
-        "APPINVENTOR": "Make a mobile app for your phone or tablet"
+        "TITLE": "Construye algo con tu modelo de aprendizaje automático",
+        "SCRATCH2": "Crea un proyecto con la versión antiguoa de Scratch",
+        "SCRATCH3": "Usa la versión nueva de Scratch",
+        "PYTHON": "Haz un programa en Python para usar tu modelo de aprendizaje automático",
+        "APPINVENTOR": "Crea una app para tu móvil o tableta"
     },
     "PYTHON": {
-        "TITLE": "Using machine learning in Python",
+        "TITLE": "Usando aprendizaje automático en Python",
 
-        "NOTREADY": "Your project isn't ready to be used in Python yet.",
-        "NOMODEL": "You haven't trained a machine learning model yet."
+        "NOTREADY": "Tu proyecto todavía no está listo para usarse en Python",
+        "NOMODEL": "Todavía no has entrenado ningún modelo."
     },
     "APPINVENTOR": {
-        "TITLE": "Using machine learning in App Inventor",
+        "TITLE": "Usando aprendizaje automático en App Inventor",
 
-        "NOTREADY": "Your project isn't ready to be used in App Inventor yet.",
-        "NOMODEL": "You haven't trained a machine learning model yet.",
+        "NOTREADY": "Tu proyecto todavía no está listo para usarse en App Inventor.",
+        "NOMODEL": "Todavía no has entrenado ningún modelo.",
 
-        "BETAWARNING": "This is an early beta. Support for App Inventor is not finished, and will probably have a few bugs and problems."
+        "BETAWARNING": "Esto es solo una beta. El soporte para App Inventor no está terminado y puede haber errores."
     },
     "SCRATCH": {
-        "TITLE": "Using machine learning in Scratch",
+        "TITLE": "Usando aprendizaje automático en Scratch",
 
-        "NOTREADY": "Your project isn't ready to be used in Scratch yet.",
-        "NOMODEL": "You haven't trained a machine learning model yet.",
+        "NOTREADY": "Tu proyecto todavía no está listo para usarse en Scratch.",
+        "NOMODEL": "Todavía no has entrenado ningún modelo.",
 
-        "LAUNCH": "Open in Scratch",
+        "LAUNCH": "Abrir Scratch",
 
-        "LAUNCH_SCRATCH_BY_ITSELF": "(You can use <a href='{{ url }}' class='btn btn-default' target='_blank'>Scratch by itself</a> if you want.)",
-        "GO_TO_LEARNANDTEST": "Or go to the <a href='{{ urls.learnandtest }}'>Learn &amp; Test</a> page for some tips on what to do next.",
+        "LAUNCH_SCRATCH_BY_ITSELF": "(Puedes usar <a href='{{ url }}' class='btn btn-default' target='_blank'>Scratch directamente</a> si quieres.)",
+        "GO_TO_LEARNANDTEST": "O ir a la página <a href='{{ urls.learnandtest }}'>Learn &amp; Test</a> para ver algunos consejos útiles.",
 
-        "MORE_BLOCKS": "Your project will add these blocks to the <span style='background-color: purple; color: white; padding-left: 7px; padding-right: 7px; white-space: nowrap;'>More Blocks</span> tab in Scripts.",
-        "EXPLAIN_RECOGNISE_LABEL": "Put {{ type }} in the input for this, and it will return the label that your machine learning model recognises it as.",
+        "MORE_BLOCKS": "Tu proyecto añadirá estos bloques a <span style='background-color: purple; color: white; padding-left: 7px; padding-right: 7px; white-space: nowrap;'>Más bloques</span> tab in Scripts.",
+        "EXPLAIN_RECOGNISE_LABEL": "Escribe {{ type }} en el campo de entrada y devolverá la etiqueta según la cual la reconoce tu modelo.",
         "EXPLAIN_RECOGNISE_CONFIDENCE": "This will return how confident your machine learning model is that it recognises the type of {{ type }}. (As a number from 0 - 100).",
         "EXPLAIN_LABELS": "These blocks represent the labels you've created in your project, so you can use their names in your scripts.",
         "EXPLAIN_COSTUMEIMAGE": "This block is in the Looks palette for Sprites and will return the image of the currently selected costume.",
